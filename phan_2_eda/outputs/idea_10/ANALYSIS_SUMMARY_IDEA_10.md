@@ -86,9 +86,8 @@
 ## 📁 DELIVERABLES CREATED
 
 ### Code & Analysis:
-- ✅ `analyze_idea_10.py` - Python script with full analysis (200+ lines)
 - ✅ `IDEA_10_DETAILED_REPORT.md` - Comprehensive written report (500+ lines)
-- ✅ `10_Seasonality_EDA.ipynb` - Jupyter notebook template (650+ lines)
+- ✅ `10_Seasonality_Complete_Analysis.ipynb` - Jupyter notebook with full analysis
 
 ### Visualizations:
 - ✅ `01_revenue_timeline.png` - Time series with holiday highlights
@@ -275,15 +274,16 @@
 ### 📊 OUTPUTS LOCATION
 ```
 d:\Datathon2026\TuNgayToiGapEm\
-├── phan_2_eda/
-│   ├── analyze_idea_10.py              ← Python script
-│   ├── IDEA_10_DETAILED_REPORT.md      ← Written report
-│   └── 10_Seasonality_EDA.ipynb        ← Jupyter notebook
-└── outputs/idea_10/
-    ├── 01_revenue_timeline.png         ← Visualization 1
-    ├── 02_monthly_seasonality.png      ← Visualization 2
-    ├── 04_promo_analysis.png           ← Visualization 3
-    └── summary_metrics.csv             ← Data export
+└── phan_2_eda/outputs/idea_10/
+   ├── 10_Seasonality_Complete_Analysis.ipynb  ← Jupyter notebook
+   ├── ANALYSIS_SUMMARY_IDEA_10.md             ← Summary report
+   ├── IDEA_10_DETAILED_REPORT.md              ← Detailed report
+   └── outputs/
+      ├── 01_revenue_timeline.png             ← Visualization 1
+      ├── 02_monthly_seasonality.png          ← Visualization 2
+      ├── 03_stl_decomposition.png            ← Visualization 3
+      ├── 04_promo_analysis.png               ← Visualization 4
+      └── summary_metrics.csv                 ← Data export
 ```
 
 All files ready for final submission! ✅

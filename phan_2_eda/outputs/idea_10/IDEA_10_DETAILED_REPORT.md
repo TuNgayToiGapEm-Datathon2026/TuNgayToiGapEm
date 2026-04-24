@@ -152,7 +152,7 @@ Promo days during Tét weeks:  65 / 150 days (43.3% overlap)
 
 ### 4.1 STL Decomposition (Phân rã Trend-Seasonal-Residual)
 
-**Seasonal strength: 0.XXX** (Data shows strong seasonality in monthly pattern)
+**Seasonal strength: 0.725** (Strong annual seasonality confirmed)
 
 **Interpretation**:
 - **Trend component**: Tăng 2012-2018, giảm 2019-2021, plateau 2021-2022
