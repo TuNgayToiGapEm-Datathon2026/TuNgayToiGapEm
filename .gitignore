@@ -216,3 +216,11 @@ dataset-datathon-2026-round-1/
 .venv/
 .md
 .claude
+
+# File cá nhân — chỉ lưu local, không push lên GitHub
+CLAUDE.md
+extract.py
+GEMINI_MCQ.md
+readme_mcq.md
+reviewer_mcq.md
+TeamBrainstorm_Kien.md
