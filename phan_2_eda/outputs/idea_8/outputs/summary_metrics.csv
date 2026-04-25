@@ -1,0 +1,21 @@
+Metric,Value
+Total Orders,"646,945"
+Reviewed Orders,"111,369"
+Review Coverage,17.21%
+Overall Reviewed Return Rate,0.00%
+Low Rating Return Rate,0.00%
+High Rating Return Rate,0.00%
+Rate Ratio Low/High,nanx
+Fisher Exact p-value,1.000000
+Odds Ratio,nan
+Top Risk Category (Low Rating),Casual
+Top Risk Category Return Rate,0.00%
+Low Rating Forecast (+1M),0.00%
+Low Rating Trend Slope (pp/month),0.0000
+Low Group Return Volume,0
+Estimated Saved Returns (20%),0
+Avg Refund Per Return,"$12,784.46"
+Estimated Refund Saved,$0
+CSKH Trigger SLA,<=48h
+Primary Action,CSKH post-review low rating
+Business One-liner,"Review thap la SOS, xu ly som giam return va bao ve danh tieng"
