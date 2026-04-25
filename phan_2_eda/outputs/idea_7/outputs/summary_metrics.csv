@@ -1,0 +1,21 @@
+Metric,Value
+Total Orders,"646,945"
+Total Cancelled Orders,"59,462"
+Overall Cancel Rate,9.19%
+Average Payment Value,"$24,238.33"
+Number of Payment Methods,5
+Top Risk Payment Method,cod
+Top Risk Cancel Rate,16.00%
+Lowest Risk Payment Method,bank_transfer
+Lowest Risk Cancel Rate,7.89%
+Cancel Rate Gap (pp),8.11
+Highest Risk Device-Payment Cell,tablet x cod
+Highest Risk Cell Cancel Rate,16.93%
+Best Installment Plan,6
+Best Installment Avg Payment,"$24,446.65"
+Forecast Top Risk Cancel (+1M),15.93%
+Top Risk Cancel Trend Slope (pp/month),0.0004
+COD Current Cancel Rate,16.00%
+COD Target Cancel Rate,11.00%
+Estimated Saved Orders,"4,834"
+Estimated Reclaimed Revenue,"$117,169,321"
