@@ -1,0 +1,4 @@
+kagglehub
+ipykernel
+jupyterlab
+pandas
