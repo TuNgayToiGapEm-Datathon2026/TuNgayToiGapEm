@@ -1,0 +1,16 @@
+Metric,Value
+Promo Campaign Count,50
+Promo Day Share (%),44.5%
+Promo Window Lift (%),-11.8%
+Campaign Mean Uplift (%),0.30%
+Campaign Median Uplift (%),-16.48%
+Positive Campaign Rate (%),40.0%
+Best Campaign Uplift (%),78.65%
+Worst Campaign Uplift (%),-36.03%
+Best Promo Type,percentage
+Best Promo Type Mean Uplift (%),3.26%
+Returning Share In Promo Revenue (%),14.4%
+Predicted Uplift 3-day (%),66.85%
+Predicted Uplift 7-day (%),58.41%
+Predicted Uplift 14-day (%),43.64%
+Duration-Uplift Slope (pp/day),-2.110
