@@ -227,3 +227,9 @@ GEMINI_MCQ.md
 readme_mcq.md
 reviewer_mcq.md
 TeamBrainstorm_Kien.md
+
+# Báo cáo — lưu local
+report/
+
+# Dataset symlink
+dataset-datathon-2026-round-1
