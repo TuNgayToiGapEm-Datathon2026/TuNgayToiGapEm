@@ -2,20 +2,21 @@ Metric,Value
 Total Sessions,"91,452,537"
 Total Orders,"121,586"
 Total Revenue,"$2,947,636,902"
-Overall Conversion Proxy,0.1329%
+Overall Conversion Proxy (%),0.13%
 Overall AOV,"$24,243.23"
-Overall Revenue per Session,$32.23
+Overall Value Per Session,$32.23
 Number of Sources,6
 Top Source by Revenue,organic_search
 Top Source Revenue,"$1,214,210,252"
-Top Source Conversion Proxy,0.1858%
-Top Source Bounce Rate,0.45%
-Best RPS Source,organic_search
-Best RPS Value,$44.65
-Best Conversion Source,organic_search
-Best Conversion Value,0.1858%
-Best Efficiency Source,organic_search
-Worst Efficiency Source,direct
-Top Source Forecast (+1M),"$6,885,156"
-Top Source Trend Slope ($/month),"$-53,442"
-Estimated Incremental Revenue (Shift Budget),"$8,655,831"
+Top Source by Sessions,organic_search
+Top Source Sessions,"27,196,976"
+Best Value/Session Source,organic_search
+Best Value/Session ($),$44.65
+Worst Value/Session Source,direct
+Worst Value/Session ($),$12.75
+Highest Bounce Source,direct
+Highest Bounce Rate (%),0.45%
+Bounce vs Conv Correlation,-0.067
+Top Source Forecast VPS (+1M),$19.22
+Top Source Trend Slope ($/month),$-0.4729
+Estimated Budget Shift Uplift,"$97,220,848"
