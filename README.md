@@ -84,10 +84,13 @@ Kết quả (chart + CSV) tự động lưu vào `outputs/` cùng thư mục.
 > **Pipeline:** `sales.csv` → log-transform → Feature engineering (Fourier, promo flags, Tết window) → Ensemble (Prophet + TimeMixer + LightGBM) → 3-fold Expanding Window CV (step=365, horizon=548 ngày) → `submission.csv`
 
 ```bash
-cd phan_3_model/
-jupyter notebook forecast_pipeline.ipynb
-# Restart Kernel → Run All
-# Output: submission.csv (548 dòng, khớp sample_submission.csv)
+cd phan_3_model/scripts/
+python 01_temporal_features.py
+python 02_hpo_lgb_ensemble.py
+python 03_hpo_timemixer.py
+python 04_ensemble_prophet_lgb_timemixer.py
+python 05_visualize_results.py
+# Output: ../submission.csv (548 dòng, khớp sample_submission.csv)
 ```
 
 **Kết quả CV thực tế:**
