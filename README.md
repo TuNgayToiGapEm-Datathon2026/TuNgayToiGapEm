@@ -2,7 +2,7 @@
 
 **Đội:** Đỗ Minh Hiển (Trưởng nhóm) · Ngô Văn Trường Phúc (ML) · Đoàn Quốc Kiên (Insights) · Phạm Nguyễn Văn Đồng (Analyst)
 
-**Kaggle:** [Competition Link](https://www.kaggle.com) | **Seed:** `42` | **Ngày nộp:** 2026-05-01
+**Seed:** `42` | **Ngày nộp:** 2026-05-01
 
 ---
 
@@ -97,10 +97,10 @@ python 05_visualize_results.py
 
 | Fold | Revenue MAE | Revenue R² | COGS/Rev R² |
 |------|-------------|------------|-------------|
-| Fold 0 | 1.133.645 | 0.140 | 0.991 |
-| Fold 1 | 521.267 | 0.772 | 0.992 |
-| Fold 2 | 557.154 | 0.759 | 0.989 |
-| **MEAN** | **737.355** | **0.557** | **0.991** |
+| Fold 0 | 1.071.845 | 0.210 | 0.993 |
+| Fold 1 | 574.081 | 0.717 | 0.991 |
+| Fold 2 | 563.700 | 0.759 | 0.989 |
+| **MEAN** | **611.989** | **0.699** | **0.990** |
 
 *Fold 0 thấp vì train trước changepoint 2019; Fold 1–2 ổn định R²>0,75.*
 
