@@ -1,0 +1,11 @@
+{
+  "input_size": 364,
+  "d_model": 32,
+  "d_ff": 32,
+  "down_sampling_layers": 2,
+  "learning_rate": 0.0007333072445485789,
+  "dropout": 0.4230096642811721,
+  "max_steps": 700,
+  "batch_size": 64,
+  "scaler_type": "standard"
+}

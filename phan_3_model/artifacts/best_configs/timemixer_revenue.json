@@ -1,0 +1,11 @@
+{
+  "input_size": 728,
+  "d_model": 32,
+  "d_ff": 16,
+  "down_sampling_layers": 1,
+  "learning_rate": 0.000236,
+  "dropout": 0.473297654754893,
+  "max_steps": 900,
+  "batch_size": 64,
+  "scaler_type": "identity"
+}
